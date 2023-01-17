@@ -50,7 +50,11 @@
             <div class="flex sm:hidden">
               <button
                 type="button"
-                class="text-gray-600 hover:text-gray-500 focus:outline-none focus:text-gray-500"
+                class="
+                  text-gray-600
+                  hover:text-gray-500
+                  focus:outline-none focus:text-gray-500
+                "
                 aria-label="toggle menu"
               >
                 <svg viewBox="0 0 24 24" class="h-6 w-6 fill-current">
@@ -106,7 +110,15 @@
           </span>
 
           <input
-            class="w-full border rounded-md pl-10 pr-4 py-2 focus:border-blue-500 focus:outline-none focus:shadow-outline"
+            class="
+              w-full
+              border
+              rounded-md
+              pl-10
+              pr-4
+              py-2
+              focus:border-blue-500 focus:outline-none focus:shadow-outline
+            "
             type="text"
             placeholder="Search"
           />
